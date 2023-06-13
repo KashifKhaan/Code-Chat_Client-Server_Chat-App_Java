@@ -51,7 +51,8 @@ Contributions are welcome! If you'd like to enhance Code-Chat by adding new feat
 - Submit a pull request detailing your changes.
 
 ## License
-There's no rights reserved for this project, You are free to include it in original form or modified with or without additional modification in your own project
+
+This project is licensed under the terms of the [MIT License](LICENSE). Please see the [LICENSE](LICENSE) file for more details.
 
 
 ## 🔗 Contact
@@ -65,21 +66,4 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 
 Email: mrkashi2020@gmail.com
 
-`We appreciate your support and hope you enjoy using Code-Chat!`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+`I appreciate your support and hope you enjoy using Code-Chat!`
